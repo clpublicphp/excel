@@ -1,0 +1,25 @@
+.idea
+.vscode
+*/.DS_Store
+static/uploadfile
+main.exe
+*.exe
+dilu
+dilu.exe
+temp/
+vendor
+*/.DS_Store
+**/**.log
+
+# go sum
+go.
+resources/*.yaml
+resources/config.local.yaml
+resources/config.prod.yaml
+resources/config.mtlogin.yaml
+resources/config.qflogin.yaml
+cmd/start/tools.go
+cmd/start/sys.go
+*.csv
+*.xlsx
+queue/
